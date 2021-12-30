@@ -1,5 +1,5 @@
 # code-redeemer
-drafts of a code generator
+☢️ WARNING: this is just drafts ☢️
 
 ---
 **Generate:**
